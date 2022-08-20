@@ -1,0 +1,268 @@
+/* _content/toDoApp/Pages/Login.cshtml.rz.scp.css */
+html[b-kf9hxuov2x],
+body[b-kf9hxuov2x] {
+    height: 100%;
+}
+
+body[b-kf9hxuov2x] {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+.form-signin[b-kf9hxuov2x] {
+    max-width: 330px;
+    padding: 15px;
+}
+
+    .form-signin .form-floating:focus-within[b-kf9hxuov2x] {
+        z-index: 2;
+    }
+
+    .form-signin input[type="email"][b-kf9hxuov2x] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .form-signin input[type="password"][b-kf9hxuov2x] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+.bd-placeholder-img[b-kf9hxuov2x] {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg[b-kf9hxuov2x] {
+        font-size: 3.5rem;
+    }
+}
+
+.b-example-divider[b-kf9hxuov2x] {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr[b-kf9hxuov2x] {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+}
+
+.bi[b-kf9hxuov2x] {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.nav-scroller[b-kf9hxuov2x] {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+    .nav-scroller .nav[b-kf9hxuov2x] {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }
+/* _content/toDoApp/Pages/Register.cshtml.rz.scp.css */
+html[b-blglm0t1g5],
+body[b-blglm0t1g5] {
+    height: 100%;
+}
+
+body[b-blglm0t1g5] {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+.form-signin[b-blglm0t1g5] {
+    max-width: 330px;
+    padding: 15px;
+}
+
+    .form-signin .form-floating:focus-within[b-blglm0t1g5] {
+        z-index: 2;
+    }
+
+    .form-signin input[type="email"][b-blglm0t1g5] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .form-signin input[type="password"][b-blglm0t1g5] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+.bd-placeholder-img[b-blglm0t1g5] {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg[b-blglm0t1g5] {
+        font-size: 3.5rem;
+    }
+}
+
+.b-example-divider[b-blglm0t1g5] {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr[b-blglm0t1g5] {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+}
+
+.bi[b-blglm0t1g5] {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.nav-scroller[b-blglm0t1g5] {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+    .nav-scroller .nav[b-blglm0t1g5] {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }
+/* _content/toDoApp/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-nbquyl0pnv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-nbquyl0pnv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-nbquyl0pnv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-nbquyl0pnv], .nav-pills .show > .nav-link[b-nbquyl0pnv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-nbquyl0pnv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-nbquyl0pnv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-nbquyl0pnv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-nbquyl0pnv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-nbquyl0pnv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/toDoApp/Pages/Shared/_LayoutLogin.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-7ijdl21rtx] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-7ijdl21rtx] {
+  color: #0077cc;
+}
+
+.btn-primary[b-7ijdl21rtx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-7ijdl21rtx], .nav-pills .show > .nav-link[b-7ijdl21rtx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-7ijdl21rtx] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-7ijdl21rtx] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-7ijdl21rtx] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-7ijdl21rtx] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-7ijdl21rtx] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

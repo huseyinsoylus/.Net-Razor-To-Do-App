@@ -1,0 +1,33 @@
+﻿@page
+@model toDoApp.Pages.AddToDoModel
+@{
+    ViewData["Title"] = "Add ToDo";
+}
+<form asp-page-handler="Form" method="post">
+    <div class="mb-3">
+        <label for="toDoName" class="form-label">ToDo</label>
+        <input type="text" class="form-control" id="toDoName" aria-describedby="ToDoNameHelp" asp-for="toDo.toDoName">
+        <div id="ToDoNameHelp" class="form-text">Enter the name to do.</div>
+    </div>
+    <div class="mb-3">
+        <label for="toDoDescription" class="form-label">Description</label>
+        <input type="text" class="form-control" id="toDoDescription" asp-for="toDo.toDoDescription">
+    </div>
+    <input type="hidden" value="@{
+        Write(++Model.end_id);
+}" class="form-control" id="toDoDescription" asp-for="toDo.toDoId">
+    <input type="hidden" value="1" class="form-control" id="toDoDescription" asp-for="toDo.toDoStatus">
+    <input type="hidden" value="@HttpContext.Session.GetString("_UserName")" class="form-control" id="toDoDescription" asp-for="toDo.toDoUsername">
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>
+
+@section Scripts {
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            if ("@Model.StatusMessageAddToDo" != "")
+                swal("@Model.StatusMessageAddToDoTitle", "@Model.StatusMessageAddToDo", "@Model.StatusMessageAddToDoTitle");
+        });
+    </script>
+}

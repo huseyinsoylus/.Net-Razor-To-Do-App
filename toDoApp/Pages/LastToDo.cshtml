@@ -1,0 +1,67 @@
+﻿@page
+@model toDoApp.Pages.LastToDoModel
+@{
+    ViewData["Title"] = "Last ToDos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @HttpContext.Session.GetString("_UserName")</h1>
+    <p>Below is data on how long it worked.</p>
+</div>
+
+<div class="row row-cols-1 justify-content-center">
+    @foreach (var toDos in Model.toDos)
+    {
+        if (toDos != null && toDos.toDoUsername == HttpContext.Session.GetString("_UserName") && toDos.toDoStatus == 0)
+        {
+            <div class="card border-primary mb-4 mx-auto" style="max-width: 100rem;">
+                @*<div class="card-header">ID @toDos.toDoId</div>*@
+                <div class="card-body text-primary">
+                    <h5 class="card-title">(@toDos.toDoId) @toDos.toDoName</h5>
+                    <p class="card-text">Description: @toDos.toDoDescription</p>
+                    <p class="card-text">
+                        @{
+                            if (toDos.toDoStatus == 1)
+                            {
+                                Write("Not Completed");
+                            }
+                            else
+                            {
+                                Write("Completed");
+                            }
+                        }
+                    </p>
+                    <form method="post">
+                        <input type="hidden" value="@toDos.toDoId" asp-for="postToDoId">
+                        <button type="submit" asp-page="/LastToDo" asp-page-handler="Complete">
+                            @{
+                                if (toDos.toDoStatus == 1)
+                                {
+                                    Write("Completed");
+                                }
+                                else
+                                {
+                                    Write("Not Completed");
+                                }
+                            }
+                        </button>
+                        <button type="submit" asp-page="/LastToDo" asp-page-handler="Delete">Delete</button>
+                        @*<a asp-page="/View" asp-page-handler="Delete">Delete</a>*@
+                    </form>
+                </div>
+                @*<div class="card-footer"></div>*@
+            </div>
+        }
+    }
+</div>
+
+@section Scripts {
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            if ("@Model.StatusMessageDelComp" != "")
+                swal("@Model.StatusMessageDelCompTitle", "@Model.StatusMessageDelComp", "@Model.StatusMessageDelCompTitle");
+        });
+    </script>
+}

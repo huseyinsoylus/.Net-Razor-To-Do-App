@@ -1,0 +1,8 @@
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\toDoApp.exe
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\libman.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\toDoApp.dll
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\toDoApp.deps.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\toDoApp.runtimeconfig.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\PubTmp\Out\toDoApp.pdb

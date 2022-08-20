@@ -1,0 +1,48 @@
+﻿@page
+@model toDoApp.Pages.LoginModel
+@{
+    Layout = "_LayoutLogin";
+    ViewData["Title"] = "Login";
+}
+
+
+<main class="form-signin w-100 m-auto">
+    <form asp-page-handler="Form" method="post">
+        <img class="mb-4" src="https://icon-library.com/images/todo-list-icon/todo-list-icon-17.jpg" alt="" width="72" height="57">
+        <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingInput" placeholder="Your Username" asp-for="LoginUser.userName">
+            <label for="floatingInput">Username</label>
+        </div>
+        <div class="form-floating">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password" asp-for="LoginUser.password">
+            <label for="floatingPassword">Password</label>
+        </div>
+
+        <div class="checkbox mb-3">
+            <label>
+                <input type="checkbox" value="remember-me"> Remember me
+            </label>
+        </div>
+        <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+        <a asp-page="/Register">Register Now</a>
+        <input type="hidden" asp-for="StatusMessageLogin" />
+        <input type="hidden" asp-for="StatusMessageLoginTitle" />
+    </form>
+</main>
+@{
+ 
+}
+
+@section Scripts {
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            if ("@Model.StatusMessageLogin" != "")
+                swal("@Model.StatusMessageLoginTitle", "@Model.StatusMessageLogin", "warning");
+        });
+    </script>
+}
+

@@ -1,0 +1,56 @@
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\appsettings.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.staticwebassets.runtime.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.exe
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.deps.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.runtimeconfig.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.dll
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.pdb
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.csproj.AssemblyReference.cache
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.AssemblyInfoInputs.cache
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.AssemblyInfo.cs
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.RazorAssemblyInfo.cache
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.RazorAssemblyInfo.cs
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\bundle\toDoApp.styles.css
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\projectbundle\toDoApp.bundle.scp.css
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.dll
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\refint\toDoApp.dll
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.pdb
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.genruntimeconfig.cache
+C:\Users\Huseyin Lookus\source\repos\toDoApp\toDoApp\obj\Release\net6.0\ref\toDoApp.dll
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\appsettings.Development.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\appsettings.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.staticwebassets.runtime.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.exe
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.deps.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.runtimeconfig.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.dll
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\toDoApp.pdb
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.RazorAssemblyInfo.cache
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.RazorAssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\Pages\Login.cshtml.rz.scp.css
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\Pages\Register.cshtml.rz.scp.css
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\Pages\Shared\_LayoutLogin.cshtml.rz.scp.css
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\bundle\toDoApp.styles.css
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\scopedcss\projectbundle\toDoApp.bundle.scp.css
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.dll
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\refint\toDoApp.dll
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.pdb
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\toDoApp.genruntimeconfig.cache
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\obj\Release\net6.0\ref\toDoApp.dll
+C:\Users\husey\OneDrive\Masaüstü\toDoApp\toDoApp\bin\Release\net6.0\libman.json
